@@ -12,7 +12,7 @@ When we create a program for the above problem we start with taking a variable f
 zero is the removed toy so it is not taken into consideration.
 
 
-#Technojam-task_7
+# Technojam-task_7
 Validating an email using regex and tkinter:
 First thing, create a tkinter window for desktop, a simple screen login screen.
 Then import the built-in package re for using RegEx module. 
@@ -20,7 +20,7 @@ Declare variable for storing password and then creating function for validation 
 Also a driver code for getting email and calling validation function.
 
 
-#Technojam-task_8
+# Technojam-task_8
 LOOK disc-scheduling algorithm:
 LOOK is the advanced version of SCAN (elevator) disk scheduling algorithm which gives slightly better seek time than any other algorithm in the hierarchy (FCFS->SRTF->SCAN->C-SCAN->LOOK).
 Let Request array represents an array storing indexes of tracks that have been requested in ascending order of their time of arrival. ‘head’ is the position of disk head.
